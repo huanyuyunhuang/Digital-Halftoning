@@ -22,6 +22,3 @@ Python * * * *
 详情请参阅博客:
 https://imageprocessing-sankarsrin.blogspot.com/2016/12/digital-half-toning-ordered-dithering.html
 
-裁判:
-
-** *郭敬明，Sankarasrinivasan。数字半色调数据库(DHD):半色调类型综合分析2018亚太信号与信息处理协会年会。IEEE 2018. __ * *
